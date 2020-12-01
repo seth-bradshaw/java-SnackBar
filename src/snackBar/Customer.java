@@ -1,5 +1,7 @@
 package snackBar;
 
+import java.text.DecimalFormat;
+
 public class Customer {
     
     private static int maxId = 0;
